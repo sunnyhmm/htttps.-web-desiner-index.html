@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style ="text-align:center";  "background-color:dodgerBlue;" >shridi sai medical hall  </h1>
+<img src="https://content.jdmagicbox.com/comp/hyderabad/e7/040pxx40.xx40.161010154329.k2e7/catalogue/shirdi-sai-medical-stores-punjagutta-hyderabad-chemists-1ygrfr6sah-250.jpg" alt ="sai medical hal">
+<img src="https://content.jdmagicbox.com/comp/hyderabad/i2/040pxx40.xx40.140725134654.d3i2/catalogue/shiridi-sai-medical-and-general-stores-punjagutta-hyderabad-chemists-b98kgi.jpg?clr=422438"  alt="shridi sai"  height="400">
+<h2
+<p1 style = "font-size:400%";> adrees : punjagutta , dwrakapuri colony, beside shridi sai medical  </p1>
+</body>
+</html>
